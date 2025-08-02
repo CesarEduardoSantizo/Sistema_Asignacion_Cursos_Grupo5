@@ -16,7 +16,7 @@ namespace loginadmi
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Facultades2());
+            Application.Run(new SeleccionarUsuario());
         }
     }
 }
